@@ -1,4 +1,4 @@
-
+ v
 body{
     margin: 0;
     padding: 0;
@@ -132,7 +132,7 @@ span{
     box-shadow: 0px 0px 10px rgb(210, 206, 206);
     width: 250px;
     height: 280px;
-    border-radius: none;
+    border-radius: 0;
     border:transparent;
     outline-color: white;
     text-align: center;
@@ -157,7 +157,7 @@ span{
 }
 .section3 {
     display: flex;
-    width: 70%;
+    width: 120%;
     margin-top: 80px;
     gap: 120px;
     padding-left: 180px;
